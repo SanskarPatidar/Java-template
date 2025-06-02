@@ -1,4 +1,4 @@
-1. Ternary operator in C++ and Java but in kotlin -->
+1. Ternary operator in C++ and Java but in Kotlin -->
    
    ![image](https://github.com/user-attachments/assets/ad58cdb1-cb65-4bb2-9637-b7bb3a51c6dd)
 
