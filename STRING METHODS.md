@@ -12,6 +12,9 @@ IF CREATING STRING USING 'new' OTHERWISE JUST DO ==
 
 ![image](https://github.com/user-attachments/assets/d7b198cd-bb94-4d05-8911-bf8c4a054feb)
 ![image](https://github.com/user-attachments/assets/29290e95-aaad-4faf-9a08-4fc8540c2500)
+
+NOTE: IN KOTLIN, JUST USE 'in' OPERATOR
+
 ![image](https://github.com/user-attachments/assets/43a5818a-5b03-4f37-b905-6f2b4cf2f92b)
 ![image](https://github.com/user-attachments/assets/2f33382f-77f7-40b9-b30c-3ee46ecb906e)
 
