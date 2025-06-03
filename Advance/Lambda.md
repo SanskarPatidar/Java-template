@@ -13,3 +13,6 @@
 ❤️LAMBDA AS HIGHER ORDER FUNCTION -->
 
 ![image](https://github.com/user-attachments/assets/868a43c6-9a15-4df5-ab34-8466e00a4526)
+
+
+❤️CAN ALSO RETURN IT FROM FUNCTIONS
