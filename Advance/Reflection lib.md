@@ -2,7 +2,7 @@ Here’s a comparison of **Reflection** in **Java**, **Kotlin**, and **C++ (synt
 
 ---
 
-### 🪞 Reflection (Introspecting Classes, Methods, Fields at Runtime)
+### 🪞 Reflection (***Introspecting Classes, Methods, Fields at Runtime***)
 
 * **Java:** Use the `java.lang.reflect` package to access class metadata at runtime.
 * **Kotlin:** Use `::class`, `KClass`, and `javaClass`; supports full reflection via `kotlin.reflect`.
@@ -51,13 +51,5 @@ method.call(obj)
 
 ---
 
-### 🛠 C++ Syntax Only (No Example)
 
-```cpp
-// No built-in reflection; use typeid(obj).name() or templates
-typeid(obj).name();
-```
 
----
-
-Would you like to continue with **reflection use cases in Spring Boot**, **modifying private fields**, or **annotations with reflection**?
