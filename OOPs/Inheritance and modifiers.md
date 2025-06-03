@@ -11,3 +11,4 @@ ABSTRACT CLASS VS INTERFACE -->
 
 ![image](https://github.com/user-attachments/assets/0485d014-9da3-484f-bd67-1ff3d2d0c7c6)
 ![image](https://github.com/user-attachments/assets/7934582f-45ee-4f49-befd-cd0b9d1ffb5a)
+![image](https://github.com/user-attachments/assets/53fb28ef-6850-424a-8f06-41026a293b08)
