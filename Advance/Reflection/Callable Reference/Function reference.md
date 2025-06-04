@@ -23,5 +23,6 @@ So how do we CONVERT printSquare into a lambda so we can pass it around? Use the
 MyClass("someObject",::printSquare) //now compiler does not complain since it's expecting a lambda and we have indeed converted the `printSquare` FUNCTION into a LAMBDA.
 ```
 Also, please note that this is implied... meaning this::printSquare is the same as ::printSquare. So if the printSquare function was in another class, like a Presenter, then you could convert it to lambda like this:
-
+```
 Presenter::printSquare
+```
